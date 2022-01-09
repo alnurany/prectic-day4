@@ -1,0 +1,45 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    background-color: rosybrown;
+}
+.oder-list{
+    width: 50% ;
+    margin-left: 50px;
+    
+}
+
+ol :nth-child(2n+1){
+    color: red;
+}
+h2{
+    font-size: 1.5rem;
+    text-align: justify;
+    color: white;
+}
+/* this is table line */
+tr th{
+    border:2px solid gray;
+}
+tr th:nth-child(2n+1){
+    background-color: rgb(203, 214, 187);
+}
+td{
+    border: 2px solid gray;
+    padding: 10px;
+}
+table {
+    table-layout: fixed;
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 10px;
+   
+}
+  tr td:nth-child(2n+1){
+    background-color: gray;
+   
+    
+}
