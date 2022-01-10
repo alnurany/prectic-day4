@@ -72,4 +72,58 @@ video{
     width: 300px;
     height: auto;
     margin-top: 50px;
-}
+
+ }
+ .section-4{
+     display: flexbox;
+     margin-top: 50px;
+     margin-bottom: 30px;
+     background-color: lemonchiffon;
+ }
+ .radio{
+    display: contents;
+ }
+ .section-4 p{
+     font-size: 1.5rem;
+ }
+ footer{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+   font-size: 2rem;
+ }
+ #fot{
+     color: orange;
+     display: ;
+ }
+ video{
+     margin-left: 40px;
+ }
+ 
+     
+     
+ }
+ .container-5{
+     background-color: orange;
+     width: 200px;
+
+ }
+ .images{
+     width: 200px;
+ }
+ .box-2{
+    display: flex;
+     justify-content: space-around;
+     
+ }
+ .container-6{
+     width: 200px;
+     background-color: palegoldenrod;
+ }
+ .container-7{
+     width: 200px;
+     background-color: palegoldenrod;
+ }
+
+
