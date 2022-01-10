@@ -126,4 +126,36 @@ video{
      background-color: palegoldenrod;
  }
 
+ /* nav soro aikhane */
 
+ .menobar{
+     background: #b43939;
+     text-align: center;
+ }
+
+ .menobar ul{
+     list-style: none;
+     display:inline-flex;
+     color: #fff;
+ }
+ .menobar ul li{
+     width: 120px;
+     margin: 15px;
+     padding: 15px;
+ }
+
+ .menobar ul li a {
+     text-decoration: none;
+     color: white;
+
+ }
+  
+ }
+ .fa{
+     display: inline-flex;
+ }
+
+ .menobar ul li:hover {
+     background-color: rgb(42, 54, 50);
+     border-radius: 8px;
+ }
