@@ -41,5 +41,35 @@ table {
   tr td:nth-child(2n+1){
     background-color: gray;
    
+}
+.section-1{
+    display: flex;
+    margin-top: 50px;
+}
+.section-1 h1{
+    text-align: center;
     
+}
+.container-1{
+    width: 40%;
+    text-align: justify ;
+    margin-left: 10px;
+}
+.container-2{
+    width: 40%;
+    margin-left: 100px;
+    
+}
+aside{
+    float: right;
+    width: 40%;
+    padding: 20px;
+    margin-left: 5rem;
+    padding-left: 19px;
+    border: inset 10px;
+}
+video{
+    width: 300px;
+    height: auto;
+    margin-top: 50px;
 }
